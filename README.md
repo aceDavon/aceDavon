@@ -21,3 +21,6 @@ let MakojiDavid = {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aceDavon&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceDavon&theme=tokyonight)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
