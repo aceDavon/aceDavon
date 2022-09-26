@@ -26,6 +26,6 @@ let MakojiDavid = {
 <details>
   <summary>Statistics</summary>
   <p align = "center">
-    <img src="https://wakatime.com/share/@63d0ac1e-cac3-4911-80f0-57c87d87c20b/71bded3f-1d19-47bf-9ddc-eb66d8a248e6.svg" height="350px" />
+    <img src="https://wakatime.com/share/@63d0ac1e-cac3-4911-80f0-57c87d87c20b/eca811f2-1cde-4fd2-a964-d7a7fdc67a37.svg" height="350px" />
   </p>
 </details>
