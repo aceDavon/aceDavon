@@ -19,12 +19,19 @@ let MakojiDavid = {
 
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aceDavon&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aceDavon&theme=tokyonight)
-<hr>
+<hr/>
 
 <details>
-  <summary>Statistics</summary>
+  <summary>GitHub Stats</summary>
+  <p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aceDavon&theme=radical" height="350px" />
+  </p>
+</details>
+
+<hr/>
+
+<details>
+  <summary>Used Languages</summary>
   <p align = "center">
     <img src="https://wakatime.com/share/@63d0ac1e-cac3-4911-80f0-57c87d87c20b/eca811f2-1cde-4fd2-a964-d7a7fdc67a37.svg" height="350px" />
   </p>
