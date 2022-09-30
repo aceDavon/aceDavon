@@ -10,9 +10,9 @@ _Remote Front-End Software Developer, Ready for the next big Adventure_
 
 ```js
 let MakojiDavid = {
-  lookingFor: 'Front-End Development Jobs',
-  Stacks: ['PHP', 'JavaScript', 'Python'],
-  frameWorks: ['Laravel', 'React', 'Redux/Reduxtoolkit', 'TailwindCSS', 'MaterialUI'],
+  lookingFor: 'Front-End, Back-End Development Jobs',
+  Stacks: ['PHP', 'JavaScript', 'Ruby', 'Python'],
+  frameWorks: ['Laravel', 'React', 'Redux/Reduxtoolkit', 'TailwindCSS', 'MaterialUI', 'Ruby on Rails'],
   hobbies: ['Music', 'Football', 'History'],
   facts: ['Learning React and looking forward to picking up Ruby & RoR', 'Great lover of PHP!', 
   '4+ years of coding experience', 'Ready for my next opportunity']
