@@ -12,10 +12,9 @@ _Remote Full-Stack Software Developer, Ready for the next big Adventure_
 let MakojiDavid = {
   lookingFor: 'Front-End, Back-End Development Jobs',
   Stacks: ['PHP', 'JavaScript', 'Ruby', 'Python'],
-  frameWorks: ['Laravel', 'React', 'Redux/Reduxtoolkit', 'NextJs', 'TailwindCSS', 'MaterialUI', 'Ruby on Rails'],
+  frameWorks: ['Laravel', 'Django', 'Flask', 'TailwindCSS', 'MaterialUI', 'Ruby on Rails'],
   hobbies: ['Music', 'Football', 'History'],
-  facts: ['Learning Typescript and looking forward to picking up React Native', 'Great lover of PHP!', 
-  '4+ years of coding experience', 'Ready for my next opportunity']
+  facts: ['4+ years of coding experience', 'Ready for my next opportunity']
 }
 
 ```
