@@ -25,8 +25,9 @@ let MakojiDavid = {
 <details>
   <summary>GitHub Stats</summary>
   <p align = "center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=acedavon)](https://git.io/streak-stats)
+    ![acedavon's GitHub stats](https://github-stats-card-generator.vercel.app/api/svg?username=acedavon&theme=default&chart=bars)
   </p>
+  
 </details>
 
 <hr/>
