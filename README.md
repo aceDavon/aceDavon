@@ -2,8 +2,8 @@
 
 _Remote Full-Stack Software Developer, Ready for the next big Adventure_
 
-[![Twitter Badge](https://img.shields.io/badge/-@sharkleshevon-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/omaiteh)](https://twitter.com/omaiteh)
-[![Linkedin Badge](https://img.shields.io/badge/-Makoji%20David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-makoji-b6090971/)](https://www.linkedin.com/in/david-makoji-b6090971/)
+[![Twitter Badge](https://img.shields.io/badge/-@omaIteh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/omaiteh)](https://twitter.com/omaiteh)
+[![Linkedin Badge](https://img.shields.io/badge/-Makoji%20David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-makoji-b6090971/)](https://www.linkedin.com/in/makoji-david/)
 <a href="https://wakatime.com/@63d0ac1e-cac3-4911-80f0-57c87d87c20b"><img src="https://wakatime.com/badge/user/63d0ac1e-cac3-4911-80f0-57c87d87c20b.svg" alt="Total time coded since Aug 18 2022" /></a>
 
 ### Now here's a little about me:
@@ -11,8 +11,9 @@ _Remote Full-Stack Software Developer, Ready for the next big Adventure_
 ```js
 let MakojiDavid = {
   lookingFor: 'Front-End, Back-End Development Jobs',
-  Stacks: ['PHP', 'JavaScript', 'Ruby', 'Python'],
-  frameWorks: ['Laravel', 'Django', 'Flask', 'TailwindCSS', 'MaterialUI', 'Ruby on Rails'],
+  Stacks: ['PHP', 'Java', 'TypeScript', 'Ruby', 'Python'],
+  frameWorks: ['Laravel', 'Spring Boot', 'Django', 'Flask', 'Ruby on Rails'],
+  tools: ['Docker', 'Kubernetes', 'Grafana', 'Prometheus', 'Kafka', 'Teraform'],
   hobbies: ['Music', 'Football', 'History'],
   facts: ['4+ years of coding experience', 'Ready for my next opportunity']
 }
@@ -24,7 +25,7 @@ let MakojiDavid = {
 <details>
   <summary>GitHub Stats</summary>
   <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aceDavon&theme=radical" height="220px" />
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   </p>
 </details>
 
