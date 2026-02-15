@@ -25,7 +25,7 @@ let MakojiDavid = {
 <details>
   <summary>GitHub Stats</summary>
   <p align = "center">
-    ![acedavon's GitHub stats](https://github-stats-card-generator.vercel.app/api/svg?username=acedavon&theme=default&chart=bars)
+    <img src="https://github-stats-card-generator.vercel.app/api/svg?username=acedavon&theme=github&chart=bars" />
   </p>
   
 </details>
